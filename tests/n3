@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/stats/25"
+   xmlns:ns2="http://example.org/stats/50"
+   xmlns:ns3="http://example.org/stats/75"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:stats="http://example.org/stats/"
+>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/NUMPERHH">
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.0</ns2:p>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.4499152521</stats:std>
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0</stats:min>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">143.0</stats:max>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.0</ns3:p>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.0</ns1:p>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.0</stats:count>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.60869565217</stats:mean>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/AGE">
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.0</ns1:p>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.0</ns3:p>
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</stats:min>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.0</stats:count>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.0</ns2:p>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.6363636364</stats:mean>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.7090230664</stats:std>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">68.0</stats:max>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/NCOUPLES">
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</stats:min>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ns1:p>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns2:p>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.471155298188</stats:std>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.0</stats:count>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</stats:max>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.681818181818</stats:mean>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns3:p>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/ORDERGB">
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.0</stats:min>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.0</stats:count>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.0</ns2:p>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.6041666667</stats:mean>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.63562142012</stats:std>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.0</stats:max>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.0</ns3:p>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.5</ns1:p>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/OCCGB">
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">102.25</ns1:p>
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.0</stats:min>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">999.0</stats:max>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">414.0</ns2:p>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.0</stats:count>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">357.314304355</stats:std>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">436.6875</stats:mean>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">560.25</ns3:p>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/BPLCTYGB">
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.0</stats:min>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">101.520833333</stats:mean>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">990.0</stats:max>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">132.150138597</stats:std>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90.0</ns3:p>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.0</stats:count>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90.0</ns2:p>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90.0</ns1:p>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/NFATHERS">
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</stats:min>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns3:p>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.459160969735</stats:std>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</stats:max>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns2:p>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.706896551724</stats:mean>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">58.0</stats:count>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ns1:p>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/LABFORCE">
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.502356122103</stats:std>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0</ns3:p>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0</stats:max>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.0</stats:count>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns1:p>
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</stats:min>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.4358974359</stats:mean>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns2:p>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/NFAMS">
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.5641025641</stats:mean>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.4852687867</stats:std>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.0</stats:max>
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</stats:min>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns2:p>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0</ns3:p>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns1:p>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.0</stats:count>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/MARST">
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.31377964558</stats:std>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.0</ns3:p>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.0</ns2:p>
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</stats:min>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.0</stats:count>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.41025641026</stats:mean>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns1:p>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.0</stats:max>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/URBAN">
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</stats:std>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.0</stats:count>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</stats:max>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</stats:mean>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns2:p>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns3:p>
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</stats:min>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns1:p>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/RELATE">
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.0</stats:count>
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">101.0</stats:min>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">201.0</ns1:p>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">376.88372093</stats:mean>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">301.0</ns2:p>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">323.286560876</stats:std>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">301.0</ns3:p>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1301.0</stats:max>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/COUNTYGB">
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90.0</ns3:p>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90.0</ns1:p>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.0</stats:count>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90.0</stats:mean>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</stats:std>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90.0</stats:max>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90.0</ns2:p>
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90.0</stats:min>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/GQ">
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns1:p>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns2:p>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.09310525093</stats:std>
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</stats:min>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0</stats:max>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns3:p>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.0</stats:count>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.31578947368</stats:mean>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/PERWT">
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns2:p>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</stats:mean>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns1:p>
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</stats:min>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</stats:std>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns3:p>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.0</stats:count>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</stats:max>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/SAMPLE">
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8262.0</ns1:p>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8262.0</stats:max>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">37.0</stats:count>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</stats:std>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8262.0</ns3:p>
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8262.0</stats:min>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8262.0</stats:mean>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8262.0</ns2:p>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/PERNUM">
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.0</ns2:p>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">76.0</stats:max>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">37.0</stats:count>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.72972972973</stats:mean>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0</ns1:p>
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</stats:min>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.0</ns3:p>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.5999308831</stats:std>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/CNTRY">
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">826.0</ns2:p>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">826.0</ns3:p>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</stats:std>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.0</stats:count>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">826.0</stats:mean>
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">826.0</stats:min>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">826.0</ns1:p>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">826.0</stats:max>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/NMOTHERS">
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0</stats:max>
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</stats:min>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.9375</stats:mean>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns2:p>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.0</stats:count>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns1:p>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns3:p>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.43533450246</stats:std>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/SERIAL">
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.0</stats:count>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">303.25</ns1:p>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1021.0</stats:max>
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.0</stats:min>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">551.925</stats:mean>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">798.25</ns3:p>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">319.550516652</stats:std>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">519.0</ns2:p>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/BPLCNTRY">
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43466.0232558</stats:mean>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8826.46475228</stats:std>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">99999.0</stats:max>
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42120.0</stats:min>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42120.0</ns2:p>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42120.0</ns1:p>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42120.0</ns3:p>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.0</stats:count>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/YEAR">
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1881.0</stats:min>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.0</stats:count>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</stats:std>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1881.0</stats:mean>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1881.0</ns1:p>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1881.0</stats:max>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1881.0</ns3:p>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1881.0</ns2:p>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/SEX">
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0</ns3:p>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns1:p>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.47222222222</stats:mean>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0</stats:max>
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</stats:min>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">36.0</stats:count>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</ns2:p>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.506309397848</stats:std>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.socialhistory.org/resource/SERVANTS">
+    <stats:min rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</stats:min>
+    <stats:std rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.67664137924</stats:std>
+    <stats:max rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.0</stats:max>
+    <ns1:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ns1:p>
+    <stats:mean rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.70588235294</stats:mean>
+    <ns2:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ns2:p>
+    <ns3:p rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ns3:p>
+    <stats:count rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.0</stats:count>
+  </rdf:Description>
+</rdf:RDF>
