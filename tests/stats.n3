@@ -1,0 +1,9 @@
+<http://data.socialhistory.org/resource/> <http://example.org/stats/p75> "976.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://data.socialhistory.org/resource/> <http://example.org/stats/p50> "651.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://data.socialhistory.org/resource/> <http://example.org/stats/mean> "651.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://data.socialhistory.org/resource/> <http://example.org/stats/min> "1.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://data.socialhistory.org/resource/> <http://example.org/stats/count> "1301.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://data.socialhistory.org/resource/> <http://example.org/stats/std> "375.71065995"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://data.socialhistory.org/resource/> <http://example.org/stats/max> "1301.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://data.socialhistory.org/resource/> <http://example.org/stats/p25> "326.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
